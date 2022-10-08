@@ -35,8 +35,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            openeuler/2*
-          key: build-${{ hashFiles('openeuler/*') }}
+            heguofeng/2*
+          key: build-${{ hashFiles('heguofeng/*') }}
           restore-keys: |
             build-
       - name: Download openEuler images
