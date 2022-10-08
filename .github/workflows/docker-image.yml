@@ -1,4 +1,4 @@
-name: openEuler Basic Image
+name: openEuler Basic Image2
 
 on: 
   pull_request:
