@@ -21,6 +21,8 @@ jobs:
             tags: openeuler/openeuler:20.03-lts-sp3,openeuler/openeuler:20.03
           - version: 22.03-lts
             tags: openeuler/openeuler:22.03-lts,openeuler/openeuler:latest,openeuler/openeuler:22.03
+          - version: 22.09
+            tags: openeuler/openeuler:22.09,openeuler/openeuler:latest
 
     runs-on: ubuntu-latest
 
