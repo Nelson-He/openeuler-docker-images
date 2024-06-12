@@ -23,7 +23,7 @@ We are using `buildx` in here to generate multi-arch images, see more in [Docker
 
 
 # Supported tags and respective Dockerfile links
-
+- 22.03-LTS
 - 21.03
 - 20.09
 - 20.03-LTS-SP2
